@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b95bad3-ebaf-4140-ba99-ef5da9e5dd81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KonanWorkspace">
+    <executables />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="p4ljtjer" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/www/package.json" />
+  </component>
+  <component name="ProjectId" id="1l4Ga2Wp194Xy7WHqPq6ls3oqLr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$PROJECT_DIR$/../.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b95bad3-ebaf-4140-ba99-ef5da9e5dd81" name="Default Changelist" comment="" />
+      <created>1606849009560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606849009560</updated>
+      <workItem from="1606849010616" duration="597000" />
+      <workItem from="1606895672775" duration="2635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1050" height="188" key="GridCell.Tab.0.bottom" timestamp="1606898345454">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1050" height="174" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1606896608407" />
+    <state width="1050" height="188" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1606898345454" />
+    <state width="1050" height="188" key="GridCell.Tab.0.center" timestamp="1606898345452">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1050" height="174" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1606896608406" />
+    <state width="1050" height="188" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1606898345452" />
+    <state width="1050" height="188" key="GridCell.Tab.0.left" timestamp="1606898345451">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1050" height="174" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1606896608404" />
+    <state width="1050" height="188" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1606898345451" />
+    <state width="1050" height="188" key="GridCell.Tab.0.right" timestamp="1606898345453">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1050" height="174" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1606896608406" />
+    <state width="1050" height="188" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1606898345453" />
+  </component>
+</project>

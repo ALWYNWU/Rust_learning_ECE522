@@ -1,0 +1,15 @@
+[package]
+name = "Lab_3_Q2"
+version = "0.1.0"
+authors = ["yilong <yilong8@ualberta.ca>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+criterion = "0.3"
+rand = "0.5.5"
+
+[[bench]]
+name = "my_benchmark"
+harness = false

@@ -1,0 +1,8 @@
+[package]
+name = "linked_list"
+version = "0.1.0"
+authors = ["nasha"]
+edition = "2018"
+
+[dependencies]
+im = "5.0.0"

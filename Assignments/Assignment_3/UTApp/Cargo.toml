@@ -1,0 +1,15 @@
+[package]
+name = "UTApp"
+version = "0.1.0"
+authors = ["nasha"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.0"
+rcalc_lib = "0.9.3"
+integer-sqrt = "0.1.5"
+rclc = "0.8.7"
+hamcrest2 = "0.3.0"
+
+[dev-dependencies]
+hamcrest2 = "*"

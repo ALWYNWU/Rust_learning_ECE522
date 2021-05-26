@@ -1,0 +1,12 @@
+[package]
+name = "Lab1_Deliverable_3"
+version = "0.1.0"
+authors = ["yilong"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rug = "1.11.0"
+rand = "0.7.0"
+is_prime = "1.0.5"
